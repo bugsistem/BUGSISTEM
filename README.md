@@ -5,6 +5,9 @@
 🚀 Em constante evolução na área de tecnologia  
 
 ---
+## 🎓 Formação
+
+- 📚 Cursando 2º ano de Desenvolvimento de Sistemas  
 
 ## 📚 Sobre mim
 
