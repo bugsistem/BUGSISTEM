@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Olá! Eu sou Dylan
 
-<!--
-**bugsistem/BUGSISTEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+☕ Atualmente aprendendo Java  
+🚀 Em constante evolução na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Sobre mim
+
+Sou estudante e estou começando minha jornada na programação.  
+No momento estou focado em aprender Java e entender bem a lógica de programação.
+
+Meu objetivo é crescer na área de desenvolvimento e construir projetos cada vez melhores.
+
+---
+
+## 💻 Tecnologias que estou aprendendo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+---
+
+## 🎯 Objetivos
+
+- Aprender bem lógica de programação  
+- Evoluir no Java  
+- Criar meus próprios projetos  
+- Conseguir minha primeira oportunidade na área  
+
+---
+
+✨ Cada projeto aqui representa minha evolução.
